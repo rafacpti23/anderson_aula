@@ -64,10 +64,10 @@ export default {
         },
         // Cores do Brasil
         brazil: {
-          green: "hsl(140 80% 30%)", // Verde bandeira
-          yellow: "hsl(48 100% 50%)", // Amarelo bandeira
-          blue: "hsl(220 80% 40%)", // Azul bandeira
-          white: "hsl(0 0% 100%)", // Branco
+          green: "#009739",
+          yellow: "#FFDF00",
+          blue: "#002776",
+          white: "#FFFFFF",
         },
       },
       borderRadius: {
